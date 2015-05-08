@@ -21,7 +21,7 @@ Use this light weight and very well sorted plug-in, which is as easy to use as t
 1. Login into your WordPress admin panel
 2. Navigate to Plugins => Add New
 3. Click Upload 
-4. Click Choose File and select the advanced-post-category-template.zip.
+4. Click Choose File and select the advanced-category-template.zip.
 5. Click Install Now.
 6. Activate the plugin through the 'Plugins' menu in WordPress.
 7. Go to Dashboard => Advance Category Template and set your general setting.
