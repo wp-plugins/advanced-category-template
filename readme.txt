@@ -1,4 +1,4 @@
-=== Advavanced Category Template === 
+=== Advanced Category Template === 
 Contributors: praveen_goswami
 Tags: category, category template, category theme, custom template, post category template, custom template for post category, wp custom post category template, custom post category type, custom category template, category from template, templates, category post template, custom category template, simple post category templates, single post category templates, templates, theme template, wordpress post category template, wordpress category template, wp post category template, wp category template, wp custom post type category template, wordpress custom post type category template.
 Requires at least: 3.0
