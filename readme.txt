@@ -41,10 +41,10 @@ Write an email us on : praveenpgoswami@gmail.com
 
 == Screenshots ==
 
-1. screenshot-1.JPG
-2. screenshot-2.JPG
-3. screenshot-3.JPG
-4. screenshot-4.JPG
+1. screenshot-1.png
+2. screenshot-2.png
+3. screenshot-3.png
+4. screenshot-4.png
 
 == Changelog ==
 
