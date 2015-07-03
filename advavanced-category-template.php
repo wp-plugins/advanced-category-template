@@ -146,8 +146,15 @@ if (!class_exists('Advanced_Categories_Template')) {
 		 *
 		 */
 		public function get_advance_cat_templates() {
-			$themes = wp_get_themes();
+			
+			if(function_exists('wp_get_themes')){
+				$themes = wp_get_themes();
+			}else{
+				$themes = get_themes();
+			}			
+			
 			$theme = get_option( 'template' );
+
 			$templates = $themes[$theme]['Template Files'];
 			$post_templates = array();
 
